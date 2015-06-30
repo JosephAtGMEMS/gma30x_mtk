@@ -1,0 +1,14 @@
+#...not modify
+# Accelerometer sensor
+config MTK_GMA302
+	bool "GMA302 for MediaTek package"
+	default n
+	
+config MTK_GMA303
+	bool "GMA303 for MediaTek package"
+	default n
+	
+config MTK_GMA305
+	bool "GMA305 for MediaTek package"
+	default n
+#...not modify
